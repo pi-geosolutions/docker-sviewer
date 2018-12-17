@@ -1,0 +1,3 @@
+[submodule "sviewer"]
+	path = sviewer
+	url = https://github.com/georchestra/sviewer.git

@@ -1,6 +1,6 @@
 # sviewer image
 
-geOrchestra's Simple viewer (sviewer) in a docker container.
+geOrchestra's Simple viewer ([sviewer](https://github.com/georchestra/sviewer)) in a docker container.
 
 ## Environment variables
 They correspond to the configuration file etc/customConfig.js
